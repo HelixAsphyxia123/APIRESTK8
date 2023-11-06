@@ -1,5 +1,7 @@
-# APIRESTK8
+# API REST RUST CON K8
 # Guía de Configuración y Despliegue de Aplicación en Kubernetes con Minikube
+
+![Kubernetes](kubernetes-logo.png)
 
 Esta guía proporciona los pasos detallados para configurar y desplegar una aplicación en un clúster local de Kubernetes utilizando Minikube. La aplicación de ejemplo es una API REST desarrollada en Rust, y se utiliza un Ingress Controller para redirigir el tráfico desde un dominio personalizado a la aplicación.
 
